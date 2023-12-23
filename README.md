@@ -1,4 +1,4 @@
-**Random Number Generator Analysis**
+**Random Number Generator Analysis**<br>
 This repository contains a Python script for generating random alphanumeric strings and analyzing the distribution of the highest digit base in those strings. The code is provided in the Jupyter Notebook file Untitled2.ipynb, which was originally created in Google Colaboratory. The notebook can be accessed here.
 
 **Overview**
