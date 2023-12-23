@@ -1,10 +1,10 @@
 <h1>#Random Number Generator Analysis**</h1><br>
 This repository contains a Python script for generating random alphanumeric strings and analyzing the distribution of the highest digit base in those strings. The code is provided in the Jupyter Notebook file Untitled2.ipynb, which was originally created in Google Colaboratory. The notebook can be accessed here.
 
-**#Overview**<br>
+<h2>#Overview</h2><br>
 The script generates random alphanumeric strings by combining digits (0-9) and uppercase letters (A-Z) in a pseudo-random manner. The highest digit in each string determines the base of the number. The distribution of these bases is then analyzed and visualized using a bar chart.
 
-**#Code Explanation**<br>
+<h2>#Code Explanation</h2><br>
 **1.Mapping Dictionary Creation**<br>
 
 A mapping dictionary is created to associate each digit (0-9) with itself and each uppercase letter (A-Z) with a corresponding numerical value.
@@ -27,7 +27,7 @@ The frequency of each base is recorded in the base_frequency dictionary.
 
 A bar chart is created using Matplotlib to visualize the distribution of bases.<br>
 
-**#Instructions for Use**<br>
+<h2>#Instructions for Use</h2><br>
 To run the code locally or in your preferred environment, follow these steps:
 
 1.Download the Untitled2.ipynb file.<br>
@@ -36,6 +36,6 @@ To run the code locally or in your preferred environment, follow these steps:
 
 **-Feel free to experiment with the code and modify parameters to explore different scenarios.-**<br>
 
-**Dependencies**<br>
+<h2>Dependencies</h2><br>
 1.Python 3.x<br>
 2.Matplotlib<br>
