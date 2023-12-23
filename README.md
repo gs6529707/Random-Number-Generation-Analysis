@@ -25,7 +25,8 @@ The frequency of each base is recorded in the base_frequency dictionary.
 
 **5.Visualization**<br>
 
-A bar chart is created using Matplotlib to visualize the distribution of bases.
+A bar chart is created using Matplotlib to visualize the distribution of bases.<br>
+
 **#Instructions for Use**<br>
 To run the code locally or in your preferred environment, follow these steps:
 
